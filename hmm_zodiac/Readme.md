@@ -1,3 +1,5 @@
+#Humble attempt to decipher the zodiac cipher with HMM
+
 To denote zodiac symbols in program I used numbers.
 			
 
